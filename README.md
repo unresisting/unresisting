@@ -1,5 +1,3 @@
-**I'm andy**
-
-doing what needs to be done.
+i do cool things here and there
 
 *twitter:  [@unharmful](https://twitter.com/unharmful) — email: andy@guo.sh*
