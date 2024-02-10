@@ -1,3 +1,3 @@
 i do cool things here and there
 
-*twitter:  [@unharmful](https://twitter.com/unharmful) — email: andy@guo.sh*
+*website: [guo.sh](https://guo.sh) — twitter:  [@unharmful](https://twitter.com/unharmful) — email: andy@guo.sh*
