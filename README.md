@@ -8,7 +8,7 @@ Previously:
 * built and scaled Sythe, a Shopify bot extension, to thousands of users and $10K MRR
 * became the youngest software engineer at [Stackline](https://stackline.com)
 * made over $100K on Kalshi in 3 months with my own sports edge
-* graduated from the University of Maryland, College Park in December 2025 with a B.S. in Computer Science and a minor in Business
+* graduated from the University of Maryland in 2025 with a B.S. in Computer Science and a minor in Business
 
 [x: @unharmful](https://twitter.com/unharmful)
 [email: andy@guo.sh](mailto:andy@guo.sh)
